@@ -35,12 +35,14 @@ El objetivo es evaluar el rendimiento del proceso de conversión de contactos a 
 - *Analizar campañas específicas que coincidieron con las semanas de mayor conversión.*
 - *Monitorear constantemente los tiempos de transición para detectar demoras operativas.*
 
-🔗 Visualización Interactiva
+### 🔗 *Visualización Interactiva*
 
-📍 Dashboard en Looker Studio o Power BI:
-➡️ [Enlace al dashboard] (pendiente de incluir)
+📍 *Dashboard en Looker Studio:*
+➡️ *[Enlace al dashboard](https://lookerstudio.google.com/s/rvC982Vf7-8)* 
 
-⚠️ Disclaimer
+---
 
-Este proyecto utiliza datos reales anonimizados.
-Todos los nombres, identificadores y métricas sensibles han sido modificados o generalizados para proteger la identidad y la integridad de la compañía y sus clientes.
+⚠️ *Disclaimer*
+
+*Este proyecto utiliza datos reales anonimizados.
+Todos los nombres, identificadores y métricas sensibles han sido modificados o generalizados para proteger la identidad y la integridad de la compañía y sus clientes.*
